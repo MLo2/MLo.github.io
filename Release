@@ -1,0 +1,7 @@
+Origin: MLo repo
+Label: MLo 
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: repo make < MLO > IG:y_i7d
